@@ -24,7 +24,7 @@
 		"depends": [
 			{
 				"id": "quilt_loader",
-				"versions": ">=0.30.1-beta.3"
+				"versions": ">=0.30.1-beta.4"
 			}
 		]
 	},

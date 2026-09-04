@@ -1,0 +1,12 @@
+{
+    "hi": "hey",
+    "newlinehi":
+"hi2",
+    "array": [
+    null,
+0.1,
+{
+"object":"value"
+}
+]
+}
